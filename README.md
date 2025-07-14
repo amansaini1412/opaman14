@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @opaman14
+- 👋 Hi, I’m @Amandeep Singh
 - 👀 I’m interested in learning coading
 - 🌱 I’m currently learning coading
 - 💞️ I’m looking to collaborate on ... 
